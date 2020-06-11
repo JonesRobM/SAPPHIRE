@@ -1,0 +1,19 @@
+## INPUT PARAMETRIZATION FOR MolDyn CODE (Cleri & Rosato)
+###########################
+Pd Pd
+# PARAMETRIZATION OF Pd-Pd INTERACTION
+#      Pd                    Pd			Pd-Pd
+   10.867d0      10.867d0        10.867d0              	p
+   3.742d0        3.742d0         3.742d0         		q
+   0.1746d0       0.1746d0   	  0.1746d0  		a(eV)
+   1.718d0        1.718d0         1.718d0   		qsi(eV)
+#########################################
+## OTHER METAL PROPERTIES
+ 3.936d0      3.936d0       Cohesion energy [eV]
+ 1.37d0       1.37d0        Atomic radius [Angstrom]
+106.42d0    106.42d0         Mass [amu]
+############################################################################
+# CUTOFF_START AND CUTOFF_END [Angstrom]
+     3.887        5.777
+#
+

@@ -1,0 +1,19 @@
+## INPUT PARAMETRIZATION FOR MolDyn CODE (Baletto PRB 2002)
+###########################
+Pd Ag
+# PARAMETRIZATION OF Pd-Pd INTERACTION
+#      Pd                    Pd			Pd-Pd
+   11.0d0         11.0d0            11.0d0              	p
+   3.794d0        3.794d0           3.794d0         		q
+   0.1715d0       0.1715d0   	    0.1715d0  		a(eV)
+   1.7019d0       1.7019d0    	    1.7019d0   		qsi(eV)
+#########################################
+## OTHER METAL PROPERTIES
+ 3.89d0      3.89d0       Cohesion energy [eV]
+ 1.37d0       1.37d0        Atomic radius [Angstrom]
+106.42d0        106.42d0         Mass [amu]
+############################################################################
+# CUTOFF_START AND CUTOFF_END [Angstrom]
+     3.89        5.777
+#
+
